@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-postcss
+postcss:
+  cache: false
+
+sass:
+  sass_dir: _sass
